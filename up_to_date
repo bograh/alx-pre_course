@@ -1,1 +1,2 @@
-git fetch --all
+git fetch origin
+git pull origin master
